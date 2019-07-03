@@ -5,6 +5,8 @@
  */
 package learning.femxa.sockets.javaapp1;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author sergio.huerta
@@ -17,6 +19,10 @@ public class JavaApp1 {
      */
     public static void main(String[] args){
         // TODO code application logic here
-        System.out.println("Hello, World!");
+        ArrayList<String> bla;
+        bla = new ArrayList<>();
+        bla.add("a");
+        System.out.println(bla.get(0));
+        
     }
 }
