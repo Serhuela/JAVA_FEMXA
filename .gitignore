@@ -21,3 +21,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/project0001/target/
+/JavaApp1/target/
+/Sockets/.gradle/
+/Sockets/build/
+/Sockets/nbproject/private/
+/MavenIn/target/
+/GradleIn/.gradle/
+/GradleIn/build/
+/AntIn/nbproject/private/
+/AntIn/build/
